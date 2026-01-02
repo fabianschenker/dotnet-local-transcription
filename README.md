@@ -20,7 +20,7 @@ A simple .NET-based tool for local audio transcription. This project provides a 
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/dotnet-local-transcription.git
+   git clone https://github.com/fabianschenker/dotnet-local-transcription.git
    cd dotnet-local-transcription
    ```
 
