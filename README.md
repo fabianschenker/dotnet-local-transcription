@@ -24,16 +24,10 @@ A simple .NET-based tool for local audio transcription. This project provides a 
    cd dotnet-local-transcription
    ```
 
-2. Build the project:
-
-```pwsh
-dotnet build
-```
-
 3. Run the transcription tool:
 
 ```pwsh
-dotnet run -- <path-to-audio-file>
+dotnet index.cs <path-to-audio-file>
 ```
 
 Replace `<path-to-audio-file>` with the path to your audio file.
